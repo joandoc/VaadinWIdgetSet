@@ -1,0 +1,1 @@
+$wnd.com_ar_widgetset_MyAppWidgetSet.runAsyncCallback2('fdb(1520,1,EJd);_.Ed=function I8b(){WWb((!PWb&&(PWb=new _Wb),PWb),this.a.d)};PCd(Ok)(2);\n//# sourceURL=com.ar.widgetset.MyAppWidgetSet-2.js\n')
