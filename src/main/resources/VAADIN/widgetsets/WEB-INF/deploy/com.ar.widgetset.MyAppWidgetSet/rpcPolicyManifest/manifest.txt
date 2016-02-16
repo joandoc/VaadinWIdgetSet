@@ -1,2 +1,0 @@
-# Module com.ar.widgetset.MyAppWidgetSet
-# RPC service class, partial path of RPC policy file
